@@ -1,6 +1,24 @@
 {
   "users": [
-    { "firstname": "Ram", "lastname": "kumar", "id": 1 },
-    { "firstname": "Nishant", "lastname": "Gupta", "id": 2 }
+    {
+      "firstname": "Ram",
+      "lastname": "kumar",
+      "id": 1
+    },
+    {
+      "firstname": "Nishant",
+      "lastname": "Gupta",
+      "id": 2
+    },
+    {
+      "firstname": "ram",
+      "lastname": "vijay",
+      "id": 3
+    },
+    {
+      "firstname": "jonny ",
+      "lastname": "dep",
+      "id": 4
+    }
   ]
 }
