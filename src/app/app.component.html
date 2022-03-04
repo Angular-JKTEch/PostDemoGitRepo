@@ -3,4 +3,7 @@
 <input [(ngModel)]="user.firstname" placeholder="first name">
 <br/>
 <input [(ngModel)]="user.lastname" placeholder="last name">
+<input type="number" [(ngModel)]="user.age" placeholder="age">
+<input type="radio" value="male" [(ngModel)]="user.gender">Male
+<input type="radio" value="Female" [(ngModel)]="user.gender">Female
 <button (click) = 'save()'>save</button>
